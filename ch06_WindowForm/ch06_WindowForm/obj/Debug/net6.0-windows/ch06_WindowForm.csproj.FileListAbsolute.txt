@@ -1,0 +1,17 @@
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\bin\Debug\net6.0-windows\ch06_WindowForm.exe
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\bin\Debug\net6.0-windows\ch06_WindowForm.deps.json
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\bin\Debug\net6.0-windows\ch06_WindowForm.runtimeconfig.json
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\bin\Debug\net6.0-windows\ch06_WindowForm.dll
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\bin\Debug\net6.0-windows\ch06_WindowForm.pdb
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.Form1.resources
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.csproj.GenerateResource.cache
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.AssemblyInfoInputs.cache
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.AssemblyInfo.cs
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.dll
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\refint\ch06_WindowForm.dll
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.pdb
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ch06_WindowForm.genruntimeconfig.cache
+C:\Users\82106\Desktop\C#02\ch06_WindowForm\ch06_WindowForm\obj\Debug\net6.0-windows\ref\ch06_WindowForm.dll
