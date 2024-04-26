@@ -1,0 +1,15 @@
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\bin\Debug\net6.0\ch06_03.exe
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\bin\Debug\net6.0\ch06_03.deps.json
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\bin\Debug\net6.0\ch06_03.runtimeconfig.json
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\bin\Debug\net6.0\ch06_03.dll
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\bin\Debug\net6.0\ch06_03.pdb
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.AssemblyInfoInputs.cache
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.AssemblyInfo.cs
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.dll
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\refint\ch06_03.dll
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.pdb
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ch06_03.genruntimeconfig.cache
+C:\Users\82106\Desktop\C#02\ch06_03\ch06_03\obj\Debug\net6.0\ref\ch06_03.dll
